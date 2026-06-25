@@ -3,7 +3,7 @@
 An interactive, web-based executive analytics dashboard built using clean, vanilla Python **Dash** and **Plotly**. This application transforms raw retail transactional logging records into a highly visual tool, enabling stakeholders to dynamically track revenue metrics, evaluate categorical spreads, observe timeline trends, and export targeted data partitions.
 
 ## 🚀 Live Application
-🔗 **Live Demo Link:** [Deploying via Render.com](https://render.com)
+🔗 **Live Demo Link:** (https://retali-data-analysis-project.onrender.com/)
 
 ---
 
