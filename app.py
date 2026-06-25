@@ -150,7 +150,7 @@ app.layout = html.Div(
                         ),
                     ],
                     style={
-                        "width": "30%",
+                        "width": "28%",
                         "display": "inline-block",
                         "border": "1px solid #bdc3c7",
                         "borderRadius": "8px",
@@ -180,7 +180,7 @@ app.layout = html.Div(
                         ),
                     ],
                     style={
-                        "width": "30%",
+                        "width": "28%",
                         "display": "inline-block",
                         "border": "1px solid #bdc3c7",
                         "borderRadius": "8px",
@@ -210,7 +210,7 @@ app.layout = html.Div(
                         ),
                     ],
                     style={
-                        "width": "30%",
+                        "width": "28%",
                         "display": "inline-block",
                         "border": "1px solid #bdc3c7",
                         "borderRadius": "8px",
